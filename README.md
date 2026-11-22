@@ -12,7 +12,7 @@ Ajedrez en el navegador contra **120 chicas tsundere** con elo de 100 a 3000.
 
 1. Crea un repositorio nuevo y sube todos los archivos de esta carpeta, incluido `.nojekyll`.
 2. En **Settings → Pages**, elige **Deploy from a branch**, la rama `main` y la carpeta `/ (root)`.
-3. Tu juego quedará en `https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/`.
+3. Tu juego quedará en `https://github.com/laylaforev-ux/TsundereChess/settings/pages`.
 
 También puedes abrir `index.html` directamente en el navegador.
 
